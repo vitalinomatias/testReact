@@ -15,6 +15,7 @@ function App() {
             count is: {count}
           </button>
           <h1>Vitalino Matias</h1>
+          <h2>Integracion continua y despliegue continua</h2>
         </p>
         <p>
           Edit <code>App.jsx</code> and save to test HMR updates.
